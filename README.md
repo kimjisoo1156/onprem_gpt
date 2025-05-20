@@ -74,3 +74,8 @@
 ## 🏗️ 시스템 구성도
 ![image](https://github.com/user-attachments/assets/5f771814-3ad0-432d-aad5-f1b961c20b7a)
 
+## 📚 참고 자료
+- [Ollama](https://github.com/ollama/ollama?tab=readme-ov-file)  
+- [Open WebUI](https://github.com/open-webui/open-webui?tab=readme-ov-file)
+
+
