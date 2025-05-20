@@ -12,18 +12,18 @@
 
 ## 💡 프로젝트 배경
 
-<div style="display: flex; align-items: flex-start; gap: 24px;">
-  <div style="flex: 1; font-size: 16px; line-height: 1.6;">
-    <p>
-      회사나 조직 내에서 ChatGPT를 사용하려고 할 때 가장 큰 걸림돌은 <strong>보안 문제</strong>였습니다.
-    </p>
-    <p>
+<table style="border-collapse: collapse; border: none; width: 100%;">
+  <tr>
+    <td style="width: 65%; vertical-align: top; padding-right: 40px; line-height: 1.6; font-size: 16px; border: none;">
+      회사나 조직 내에서 ChatGPT를 사용하려고 할 때 가장 큰 걸림돌은 <strong>보안 문제</strong>였습니다.<br>
       코드, 문서, 기획 정보 등 민감한 데이터가 외부 서버(OpenAI 등)로 전송될 수 있어,<br>
       <strong>사내 정책상 GPT 사용이 금지되거나 제한</strong>되는 경우가 많았습니다.
-    </p>
-  </div>
-  <img src="https://github.com/user-attachments/assets/3f5f3019-eb62-49be-a4d6-3d9a8b0cc649" width="220" style="border: none;">
-</div>
+    </td>
+    <td style="width: 35%; text-align: right; border: none;">
+      <img src="https://github.com/user-attachments/assets/3f5f3019-eb62-49be-a4d6-3d9a8b0cc649" width="240"/>
+    </td>
+  </tr>
+</table>
 
 
 
