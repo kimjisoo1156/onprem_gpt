@@ -6,7 +6,7 @@
 
 ## 📹 시연 영상
 
-👉 [영상 링크를 여기에 삽입하세요 (YouTube 또는 GitHub에 직접 업로드 가능)]
+👉 [https://youtu.be/jIQNwkHWayk]
 
 ---
 
