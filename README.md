@@ -6,7 +6,8 @@
 
 ## 📹 시연 영상
 
-👉 [https://youtu.be/jIQNwkHWayk]
+👉 [![Watch the video](https://img.youtube.com/vi/jIQNwkHWayk/0.jpg)](https://www.youtube.com/watch?v=jIQNwkHWayk)
+
 
 ---
 
