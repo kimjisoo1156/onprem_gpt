@@ -12,10 +12,19 @@
 
 ## 💡 프로젝트 배경
 
-회사나 조직 내에서 ChatGPT를 사용하려고 할 때 가장 큰 걸림돌은 **보안 문제**였습니다.  
-코드, 문서, 기획 정보 등 민감한 데이터가 외부 서버(OpenAI 등)로 전송될 수 있어,  
-**사내 정책상 GPT 사용이 금지되거나 제한**되는 경우가 많았습니다.
-<img src="https://github.com/user-attachments/assets/3f5f3019-eb62-49be-a4d6-3d9a8b0cc649" width="300"/>
+<table>
+  <tr>
+    <td style="width:70%; vertical-align:top;">
+      <p>회사나 조직 내에서 ChatGPT를 사용하려고 할 때 가장 큰 걸림돌은 <strong>보안 문제</strong>였습니다.<br>
+      코드, 문서, 기획 정보 등 민감한 데이터가 외부 서버(OpenAI 등)로 전송될 수 있어,<br>
+      <strong>사내 정책상 GPT 사용이 금지되거나 제한</strong>되는 경우가 많았습니다.</p>
+    </td>
+    <td style="width:30%; text-align:right;">
+      <img src="https://github.com/user-attachments/assets/3f5f3019-eb62-49be-a4d6-3d9a8b0cc649" width="180"/>
+    </td>
+  </tr>
+</table>
+
 
 이에 따라, **외부와 단절된 환경에서도 자유롭게 GPT를 활용할 수 있는 시스템**을 만들고자 이 프로젝트를 시작했습니다.
 
